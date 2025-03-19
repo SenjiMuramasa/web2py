@@ -10,4 +10,4 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: anchore/sbom-action@v0
+      -   uses: anchore/sbom-action@v0.18.0
